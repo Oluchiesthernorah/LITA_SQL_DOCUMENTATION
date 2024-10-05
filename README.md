@@ -10,3 +10,12 @@ The primary source of data used here is gotten from Mr Femi Ayodele (MCT) and al
 
 ## Tools Used
 My SQL server for Data cleaning, analysis and visualization 
+
+## Data Analysis
+This is where we include some basic lines of code or queries or even some of the DAX expression used during your analysis
+```SQL
+SELECT * FROM TABLE 1
+WHERE CONDITION = TRUE
+```
+
+## Data Visualization 
